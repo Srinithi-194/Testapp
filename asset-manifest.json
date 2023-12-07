@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Srinithi-194/Testapp.git/static/css/main.f855e6bc.css",
+    "main.js": "/Srinithi-194/Testapp.git/static/js/main.28f2a298.js",
+    "static/js/787.8e8ffda9.chunk.js": "/Srinithi-194/Testapp.git/static/js/787.8e8ffda9.chunk.js",
+    "static/media/logo.svg": "/Srinithi-194/Testapp.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Srinithi-194/Testapp.git/index.html",
+    "main.f855e6bc.css.map": "/Srinithi-194/Testapp.git/static/css/main.f855e6bc.css.map",
+    "main.28f2a298.js.map": "/Srinithi-194/Testapp.git/static/js/main.28f2a298.js.map",
+    "787.8e8ffda9.chunk.js.map": "/Srinithi-194/Testapp.git/static/js/787.8e8ffda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.28f2a298.js"
+  ]
+}
